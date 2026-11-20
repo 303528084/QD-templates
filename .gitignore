@@ -1,3 +1,6 @@
 .history/
 .idea/
 .lh/
+# 抓包浏览器 profile，不进仓库
+.capture-profile/
+
